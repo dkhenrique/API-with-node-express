@@ -29,7 +29,7 @@ Também me ajudou a focar e entender alguns pontos como:
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/dkhenrique/API-with-node-express/blob/main/.github/preview.png?raw=true)
 
 
 ## Stack utilizada
